@@ -2,6 +2,14 @@
   "name": "p",
   "version": "1.0.0",
   "description": "Complete Node.js Guide",
+  "homepage": "https://github.com/gosurvashi29/Start-With-Mongo#readme",
+  "bugs": {
+    "url": "https://github.com/gosurvashi29/Start-With-Mongo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosurvashi29/Start-With-Mongo.git"
+  },
   "license": "ISC",
   "author": "Maximilian Schwarzmüller",
   "type": "commonjs",
